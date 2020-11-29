@@ -1,0 +1,72 @@
+---
+title: <center>FAQs
+subtitle: <center>Frequently Asked Questions
+---
+
+
+<style>
+div.color { background-color:#E6E0F8; border-radius: 5px; padding: 20px;}
+div.white { background-color:#FFFFFF; border-radius: 5px; padding: 20px;}
+</style>
+
+<div class = "color">
+<div class = "row">
+<div class = "col-md-4">
+<br><center>**Where do we go?**
+</div>
+
+<div class = "col-md-8">
+The Odyssey takes place across multiple sites around California. Driving in University vans, students, upper-class TAs, and administrators travel together to these sites. Each year's itenerary is slightly different, but you are sure to see a rnage of California's natural environments (Students do not need to drive vans).
+</div>
+</div>
+</div>
+
+<div class = "white">
+<div class = "row">
+<div class = "col-md-4">
+<br><center>**Is the Odyssey required?**
+</div>
+  
+<div class = "col-md-8">
+No, the Odyssey is not required, but it is strongly encouraged. In the past, an average of X% of the incoming cohort has attended the Odyssey, and credits this trip to developing a sense of connection to the program and their cohort. See the testimonials page.
+</div>
+</div>
+</div>
+
+<div class = "color">
+<div class = "row">
+<div class = "col-md-4">
+<br><center>**How much does the Odyssey cost?**</center>
+</div>
+  
+<div class = "col-md-8">
+The Odyssey is (for the most part) free to incoming students. The cost of travel, activities,  lodging, and food is covered by the graduate group for the extent of the trip. However, if there are items or foodstuffs that you wish to have with you on the trip, we provide stops for students to get their own goods.
+</div>
+</div>
+</div>
+
+<div class = "white">
+<div class = "row">
+<div class = "col-md-4">
+<br><center>**Do I need any special gear to go on the trip?**</center>
+</div>
+  
+<div class = "col-md-8">
+No. The Odyssey takes place at different University Reserve System sites. While you do need bedding (sleeping bag or otherwise) and outerwear suitable for outdoor activities. A full packing list will be made available before each trip.
+</div>
+</div>
+</div>
+
+
+<div class = "color">
+<div class = "row">
+<div class = "col-md-4">
+<center>**Vegan or vegetarian friendly?**</center>
+</div>
+  
+<div class = "col-md-8">
+Yep, we'll make sure we've got you covered.
+</div>
+</div>
+</div>
+

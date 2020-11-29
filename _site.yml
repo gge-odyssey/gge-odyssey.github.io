@@ -1,0 +1,29 @@
+#navabr was previous version
+navbar: 
+  title: "GGE Odyssey"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Mission Statement"
+      href: mission.html
+    - text: "Snapshots"
+      href: photos.html
+    - text: "FAQs"
+      href: faqs.html
+#  right:
+#    - icon: fa-github fa-lg
+#      href: http://github.com/lizawood5
+#    - icon: fa-twitter fa-lg
+#      href: https://twitter.com/wood__liza
+#   # - icon: fa-linkedin fa-lg
+#    #  href: https://www.linkedin.com/in/emily-zabor-59b902b7/
+
+
+output_dir: "."
+output:
+  html_document:
+    theme: paper
+    highlight: tango
+    css: 'style.css'
+    lib_dir: site_libs
+    self_contained: no
