@@ -1,5 +1,5 @@
 ---
-title: <center>Odyssey Mission Statement
+pagetitle: <center>"Odyssey Mission Statement"
 
 ---
 
