@@ -7,7 +7,7 @@ navbar:
     - text: "Mission Statement"
       href: mission.html
     - text: "Snapshots"
-      href: photos.html
+      href: snapshots.html
     - text: "FAQs"
       href: faqs.html
 #  right:

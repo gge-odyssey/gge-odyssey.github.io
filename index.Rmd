@@ -1,4 +1,5 @@
 ---
+pagetitle: GGE ODYSSEY
 title: <center>THE ODYSSEY
 subtitle: <center>Graduate Group in Ecology 
 ---
@@ -11,7 +12,7 @@ subtitle: <center>Graduate Group in Ecology
 </div>
 
 <div class = "col-md-6">
-<br><br>Some history, maybe. Since XXXX year, GGE students, administrators and faculty have come together to organize an annual trip around California. Some more history that emphasizes the legacy.
+<br><br>Some history, maybe. For over thirty years, GGE students, administrators and faculty have come together to organize an annual trip around California. Some more history that emphasizes the legacy.
 </div>
 </div>
 

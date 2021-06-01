@@ -1,0 +1,84 @@
+---
+pagetitle: GGE ODYSSEY
+title: <center>ODYSSEY SNAPSHOTS
+---
+
+```{r, include = F}
+library(data.table)
+library(magick)
+#filenames <- list.files(path="/Users/lizawood/Box/Odyssey/")
+#img.df = data.frame()
+#
+#for(i in filenames){
+#  filepath <- file.path("/Users/lizawood/Box/Odyssey",paste(i))
+#  img.df <- filepath
+#}
+#
+#<img src="/Users/lizawood/Box/Odyssey/2019_grp_snarlc.png">
+#
+#* ![Image 1](/Users/lizawood/Box/Odyssey/2019_grp_snarlc.png)
+#* ![Image 2](/Users/lizawood/Box/Odyssey/2019_grp_snarlc.png)
+
+p1 <- magick::image_read('/Users/lizawood/Box/Odyssey/20180906_145621.jpg')
+p2 <- magick::image_read('/Users/lizawood/Box/Odyssey/20180907_152234.jpg')
+p3 <- magick::image_read('/Users/lizawood/Box/Odyssey/20180908_121802.jpg')
+p4 <- magick::image_read('/Users/lizawood/Box/Odyssey/20180909_100541.jpg')
+p5 <- magick::image_read('/Users/lizawood/Box/Odyssey/2019_cricket.jpg')
+p6 <- magick::image_read('/Users/lizawood/Box/Odyssey/2019_grp_cone.JPG')
+p8 <- magick::image_read('/Users/lizawood/Box/Odyssey/2019_grp_whitemt2.JPG')
+p10 <- magick::image_read('/Users/lizawood/Box/Odyssey/2019_whitemt.jpg')
+p11 <- magick::image_read('/Users/lizawood/Box/Odyssey/IMG_0573.JPG')
+p12 <- magick::image_read('/Users/lizawood/Box/Odyssey/IMG_0602.JPG')
+p13 <- magick::image_read('/Users/lizawood/Box/Odyssey/IMG_0611.JPG')
+p14 <- magick::image_read('/Users/lizawood/Box/Odyssey/IMG_0795.JPG')
+p15 <- magick::image_read('/Users/lizawood/Box/Odyssey/IMG_0807.JPG')
+p16 <- magick::image_read('/Users/lizawood/Box/Odyssey/IMG_0812.JPG')
+
+p1p <- ggplot2::ggplot(iris)+
+ ggpubr::background_image(p1)
+p2p <- ggplot2::ggplot(iris)+
+ ggpubr::background_image(p2)
+p3p <- ggplot2::ggplot(iris)+
+ ggpubr::background_image(p3)
+p4p <- ggplot2::ggplot(iris)+
+ ggpubr::background_image(p4)
+p5p <- ggplot2::ggplot(iris)+
+ ggpubr::background_image(p5)
+p6p <- ggplot2::ggplot(iris)+
+ ggpubr::background_image(p6)
+p8p <- ggplot2::ggplot(iris)+
+ ggpubr::background_image(p8)
+p10p <- ggplot2::ggplot(iris)+
+ ggpubr::background_image(p10)
+p11p <- ggplot2::ggplot(iris)+
+ ggpubr::background_image(p11)
+?ggpubr::background_image
+p12p <- ggplot2::ggplot(iris)+
+ ggpubr::background_image(p12)
+p13p <- ggplot2::ggplot(iris)+
+ ggpubr::background_image(p13)
+p14p <- ggplot2::ggplot(iris)+
+ ggpubr::background_image(p14)
+p15p <- ggplot2::ggplot(iris)+
+ ggpubr::background_image(p15)
+p16p <- ggplot2::ggplot(iris)+
+ ggpubr::background_image(p16)
+
+cowplot::plot_grid(p1p, p3p, p4p, p5p,  ncol=2, nrow = 2)
+cowplot::plot_grid(p6p, p8p, p10p, p15p,  ncol=2, nrow = 2)
+#cowplot::plot_grid(p2p, p11p, p12p, p14p, ncol=2, nrow = 2)
+```
+
+
+```{r, include = F, eval = F}
+
+#TEST
+<img src= "img/2019_sierra2c.png">
+
+* ![Image 1](img/2019_sierra2c.png)
+* ![Image 2](img/2019_sierra2c.png)
+
+<script>
+    md_gallery('class_name':'gallery-cols-3');
+</script>
+```
