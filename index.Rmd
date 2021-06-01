@@ -24,7 +24,7 @@ library(cowplot)
 ```
 
 
-```{r, echo = F, results = "asis", fig.width= 10, fig.height=3}
+```{r, echo = F, results = "asis", fig.width= 10, fig.height=2.5}
 
 p1 <- magick::image_read('img/2019_sierra2c.png') 
 p2 <- magick::image_read('/Users/lizawood/Box/Odyssey/2019_grp_snarlc.png')

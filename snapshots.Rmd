@@ -1,9 +1,9 @@
 ---
 pagetitle: GGE ODYSSEY
-title: <center>ODYSSEY SNAPSHOTS
+title: <center>Odyssey Snapshots
 ---
 
-```{r, include = F}
+```{r, echo = F, results = "asis", fig.width= 8, fig.height=5.5, fig.align='center', warning = F, message = F}
 library(data.table)
 library(magick)
 #filenames <- list.files(path="/Users/lizawood/Box/Odyssey/")
@@ -33,6 +33,11 @@ p13 <- magick::image_read('/Users/lizawood/Box/Odyssey/IMG_0611.JPG')
 p14 <- magick::image_read('/Users/lizawood/Box/Odyssey/IMG_0795.JPG')
 p15 <- magick::image_read('/Users/lizawood/Box/Odyssey/IMG_0807.JPG')
 p16 <- magick::image_read('/Users/lizawood/Box/Odyssey/IMG_0812.JPG')
+p17 <- magick::image_read('/Users/lizawood/Box/Odyssey/IMG_0828.JPG')
+p18 <- magick::image_read('/Users/lizawood/Box/Odyssey/IMG_0840.JPG')
+
+p21 <- magick::image_read('/Users/lizawood/Box/Odyssey/IMG_1846.JPG')
+p22 <- magick::image_read('/Users/lizawood/Box/Odyssey/IMG_2371.JPG')
 
 p1p <- ggplot2::ggplot(iris)+
  ggpubr::background_image(p1)

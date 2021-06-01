@@ -26,11 +26,11 @@ The Odyssey takes place across multiple sites around California. Driving in Univ
 <div class = "white">
 <div class = "row">
 <div class = "col-md-4">
-<br><center>**Is the Odyssey required?**
+<br><center>**What do we do?**
 </div>
   
 <div class = "col-md-8">
-No, the Odyssey is not required, but it is strongly encouraged. In the past, an average of X% of the incoming cohort has attended the Odyssey, and credits this trip to developing a sense of connection to the program and their cohort. See the testimonials page.
+The Odyssey is full of different activities. We hear from Ecology students and faculty to learn about the natural environment and research going on at different sites. We explore the areas by driving, hiking (with varying intensity levels, because we don't all love hiking), and sometimes boating around, giving everyone a chance to see unique parts of California. And we dedicate time to just being together as a cohort through social activities -- games, group discussions, meal prep and sharing -- as a way of getting to know one another and building a graduate student community.
 </div>
 </div>
 </div>
@@ -38,11 +38,11 @@ No, the Odyssey is not required, but it is strongly encouraged. In the past, an 
 <div class = "color">
 <div class = "row">
 <div class = "col-md-4">
-<br><center>**How much does the Odyssey cost?**</center>
+<br><center>**What kinds of conditions will we be in?**
 </div>
-  
+
 <div class = "col-md-8">
-The Odyssey is (for the most part) free to incoming students. The cost of travel, activities,  lodging, and food is covered by the graduate group for the extent of the trip. However, if there are items or foodstuffs that you wish to have with you on the trip, we provide stops for students to get their own goods.
+While this trip does take place in some rugged conditions -- cell service can be limited, camping may be involved, and physical activities are an option -- we want to create an environment where everyone is comfortable. Bathroom and cooking facilities are on site, indoor lodging is available, and there is always a mix of activities going on for introverts and extroverts alike.
 </div>
 </div>
 </div>
@@ -50,17 +50,53 @@ The Odyssey is (for the most part) free to incoming students. The cost of travel
 <div class = "white">
 <div class = "row">
 <div class = "col-md-4">
+<br><center>**Is the Odyssey required?**
+</div>
+  
+<div class = "col-md-8">
+No, the Odyssey is not required, but it is strongly encouraged. In the past, an average of ~80% of the incoming cohort has attended the Odyssey, and students who attend credit this trip to developing a sense of connection to the program and their cohort.
+</div>
+</div>
+</div>
+
+<div class = "color">
+<div class = "row">
+<div class = "col-md-4">
+<br><center>**What if I can't go the entire time?**</center>
+</div>
+  
+<div class = "col-md-8">
+We understand that it can be tough to get away for multiple days, and so we try to split up the Odyssey so that leaving or joining part of way through is an option. While it is great (and encouraged!) to get some serious time away to spend time with your new cohort, just let your coordinator know to discuss your options.
+</div>
+</div>
+</div>
+
+<div class = "white">
+<div class = "row">
+<div class = "col-md-4">
+<br><center>**How much does the Odyssey cost?**</center>
+</div>
+  
+<div class = "col-md-8">
+The Odyssey is (for the most part) free to incoming students. The cost of travel, activities, lodging, and food is covered by the graduate group for the extent of the trip. However, if there are items or foodstuffs that you wish to have with you on the trip, we provide stops for students to get their own goods.
+</div>
+</div>
+</div>
+
+<div class = "color">
+<div class = "row">
+<div class = "col-md-4">
 <br><center>**Do I need any special gear to go on the trip?**</center>
 </div>
   
 <div class = "col-md-8">
-No. The Odyssey takes place at different University Reserve System sites. While you do need bedding (sleeping bag or otherwise) and outerwear suitable for outdoor activities. A full packing list will be made available before each trip.
+There are some things you'll need, but the GGE will do our best to make sure we can provide gear for those who need it -- we don't want anyone going out to buy anything just for this trip. For the parts of the Odyssey that take place at different University Reserve System sites, the main thing you'll need is bedding, like a sleeping bag and a pillow. For times when there is camping involved, if you have a tent and/or a sleeping pad -- great! If not, don't worry, we will be renting and crowdsourcing gear from the community. As for clothing, outerwear like layers for different climates, things you don't mind getting dirty, and some sturdy shoes are a plus. A full packing list will be made available before the trip.
 </div>
 </div>
 </div>
 
 
-<div class = "color">
+<div class = "white">
 <div class = "row">
 <div class = "col-md-4">
 <center>**Vegan or vegetarian friendly?**</center>
@@ -68,6 +104,25 @@ No. The Odyssey takes place at different University Reserve System sites. While 
   
 <div class = "col-md-8">
 Yep, we'll make sure we've got you covered.
+</div>
+</div>
+</div>
+
+<div class = "color">
+<div class = "row">
+<div class = "col-md-4">
+<center>**Who can I contact with specific questions?**</center>
+</div>
+  
+<div class = "col-md-8">
+**Graduate Student Coordinator**  
+JoAnna Lewis: jrlewis@ucdavis.edu 
+
+**Odyssey Student Committee:**  
+Angie Korabik: arkorabik@ucdavis.edu  
+Paige Kouba: pvkouba@ucdavis.edu  
+Mollie Ogaz: mhogaz@ucdavis.edu  
+Liza Wood: belwood@ucdavis.edu  
 </div>
 </div>
 </div>
