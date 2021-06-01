@@ -6,6 +6,12 @@ subtitle: <center>Graduate Group in Ecology
 
 ***
 
+**The Odyssey** is a GGE-sponsored trip aimed at introducing new students to the program and welcome them into the Ecology graduate community. For over thirty years, GGE students, administrators and faculty have come together to organize an annual trip around California. Check out the mission statement, FAQs, and trip snapshots to learn more.
+
+***
+
+```{r, include = F, eval = F}
+# This is the html for columns
 <div class = "row">
 <div class = "col-md-6">
 <br><br>**The Odyssey** is a GGE-sponsored trip aimed at introducing new students to the program and welcome them into the Ecology graduate community. Or some words that briefly summarize the mission...
@@ -15,6 +21,7 @@ subtitle: <center>Graduate Group in Ecology
 <br><br>Some history, maybe. For over thirty years, GGE students, administrators and faculty have come together to organize an annual trip around California. Some more history that emphasizes the legacy.
 </div>
 </div>
+```
 
 
 
